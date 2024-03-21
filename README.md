@@ -2,7 +2,7 @@
 
 ## Liskov Substitution Principle
 
-Example of fix for Liskov substitution principle violation. Classes "BookFormatter" in folder "before/1" and "BookFactory" in folder "before/2" violate OCP. The result of refactoring is in folder "after". Unit tests files are "entry points" here.
+Example of fix for Liskov substitution principle violation. Classes "Book", "AudioBook" and "VideoBook" in folder "before" violate LSP. The result of refactoring is in folder "after". Unit tests files are "entry points" here.
 
 ### Setup
 
