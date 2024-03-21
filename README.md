@@ -2,10 +2,10 @@
 
 ## Liskov Substitution Principle
 
-Example of fix for liskov substitution principle violation. Class "AgeLimitedMovie" in folder "before" violates LSP. The result of refactoring is in folder "after". Unit tests file is "entry point" here.
+Example of fix for Liskov substitution principle violation. Classes "BookFormatter" in folder "before/1" and "BookFactory" in folder "before/2" violate OCP. The result of refactoring is in folder "after". Unit tests files are "entry points" here.
 
 ### Setup
 
-Install NodeJS v16.14.2
+Install NodeJS v20.11.0
 
-Run `node movie.spec.js`
+Run `npm install` and then `npm run test`
