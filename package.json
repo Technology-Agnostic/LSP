@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Technology-Agnostic/OCP.git"
+    "url": "git+https://github.com/Technology-Agnostic/LSP.git"
   },
   "keywords": [
     "solid",
@@ -19,9 +19,9 @@
   "author": "technology agnostic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Technology-Agnostic/OCP/issues"
+    "url": "https://github.com/Technology-Agnostic/LSP/issues"
   },
-  "homepage": "https://github.com/Technology-Agnostic/OCP#readme",
+  "homepage": "https://github.com/Technology-Agnostic/LSP#readme",
   "dependencies": {
     "mocha": "^10.2.0"
   }
