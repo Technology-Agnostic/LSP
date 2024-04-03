@@ -12,8 +12,8 @@
   },
   "keywords": [
     "solid",
-    "open",
-    "closed",
+    "Liskov",
+    "substitution",
     "principle"
   ],
   "author": "technology agnostic",
